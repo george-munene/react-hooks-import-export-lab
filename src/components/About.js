@@ -1,6 +1,6 @@
 import React from "react";
 
-import  image from './App'
+import {image} from '../data/user'
 
 function About() {
   return (

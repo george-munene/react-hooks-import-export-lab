@@ -1,6 +1,5 @@
 import React from "react";
-import  username from './App'
-import  city from './App'
+import  {username, city} from '../data/user'
 
 function Home() {
   return (
